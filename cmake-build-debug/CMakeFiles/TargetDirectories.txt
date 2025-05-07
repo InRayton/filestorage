@@ -1,0 +1,8 @@
+D:/FileStorage/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FileStorage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/FileStorage/cmake-build-debug/server/CMakeFiles/file_server.dir
+D:/FileStorage/cmake-build-debug/server/CMakeFiles/edit_cache.dir
+D:/FileStorage/cmake-build-debug/server/CMakeFiles/rebuild_cache.dir
+D:/FileStorage/cmake-build-debug/client/CMakeFiles/file_client.dir
+D:/FileStorage/cmake-build-debug/client/CMakeFiles/edit_cache.dir
+D:/FileStorage/cmake-build-debug/client/CMakeFiles/rebuild_cache.dir
